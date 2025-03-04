@@ -43,6 +43,6 @@ if __name__ == "__main__":
     filename = "sample.txt"
     content = "This is a basic Python program demonstrating core features."
     
-    write_to_file(filename, content)
+    write_to_file(filename, content) 
     print("\n📄 File Content:")
     print(read_from_file(filename))
