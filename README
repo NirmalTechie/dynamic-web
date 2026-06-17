@@ -7,7 +7,7 @@ its a kind of clone
 # Naukri Clone
 Naukri clone is the dummy copy of naukri.com platform with some basic features.
 
-## Pre-requisit [Nodejs](https://nodejs.org/en/download/prebuilt-installer)
+## Pre-requisit [Nodejs](https://nodejs.org/en/download/prebuilt-installer) 
  - [PostgreSQL](https://www.postgresq.org/download/)
  
  - [Prisma ORM](https://www.prisma.io/docs/getting-started)
