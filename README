@@ -13,7 +13,7 @@ ffd
 
 Naukri clone is the dummy copy of naukri.com platform with some basic features.
 
-
+h
 ## Pre-requisit [Nodejs](https://nodejs.org/en/download/prebuilt-installer) 
  - [PostgreSQL](https://www.postgresq.org/download/)
 
